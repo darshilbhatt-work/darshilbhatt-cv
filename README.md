@@ -2,7 +2,7 @@
 
 This repository hosts the most up-to-date version of my CV.
 
-🔗 [Download CV (PDF)](Darshil-Bhatt-CV.pdf)
+🔗 [Download CV (PDF)](Darshil-Bhatt-CV.pdf.pdf)
 
 ---
 
